@@ -1,0 +1,26 @@
+[
+  {
+    "id": 47.42287854646694,
+    "author": "International Business Machines",
+    "capacity": "400",
+    "event": "Server Bootcamp",
+    "category": "Lifestyle",
+    "venue": "United States International University",
+    "date": "11/18/2021",
+    "description": "We are going to learn about servers.",
+    "attendants": [
+      {
+        "id": 69.55954305538584,
+        "fullName": "Affordable Nicholas",
+        "email": "admin1@gmail.com",
+        "date": "11/18/2021"
+      },
+      {
+        "id": 41.47550344798302,
+        "fullName": "Button Trial",
+        "email": "just@example.com",
+        "date": "11/19/2021"
+      }
+    ]
+  }
+]
